@@ -1,13 +1,10 @@
 # Węgiel i jego związki z wodorem
 
-1. Wpisz znak X przy nazwach naturalnych źródeł węglowodorów.
+## Zadanie 14
+### Ustal wzór sumaryczny węglowodoru o masie cząsteczkowej 44u i zawartości 81,8% węgla
 
-[ ] gaz rafineryjny
-[ ] torf
-[ ] gaz świetlny
-[ ] gaz ziemny
-[ ] nafta
-[ ] benzyna
+44u * 81,8% = 35,992u ≈ 36u  ==> cząsteczka zawiera trzy atomy węgla, bo 3 x 12u = 36u
 
-2. Podkreśl wzory sumaryczne alkenów
-   A. C2H2
+44u - 36u = 8u ==> cząsteczka zawiera 8 atomów wodoru, 8 x 1u = 8u
+
+Wzór sumaryczny to C3H8 (propan)
