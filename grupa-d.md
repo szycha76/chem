@@ -5,7 +5,7 @@
 
 ### CaC₂ → C₂H₂ → C₂H₂Br₄
 
-1. CaC₂ + 2H₂0 → Ca(OH)₂ + C₂H₂↑
+1. CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂↑
    * CaC₂ -- acetylenek wapnia (karbid)
    * H₂O -- woda
    * Ca(OH)₂ -- wodorotlenek wapnia
@@ -36,7 +36,7 @@ Stosunek masy atomowej węgla do wodoru wynosi 12:1. W danym związku wynosi 36:
 co wskazuje że na każde trzy atomy węgla (3x12) przypada 5 atomów wodoru (5x1).
 
 Gdyby ten związek miał wzór sumaryczny C₃H₅ jego masa cząsteczkowa wynosiłaby 41u
-(a więc połowę masy naszego związku), bo 36+5=41 oczywiście.
+(a więc połowę masy naszego związku), bo 36+5=41 oczywiście. _Ponadto nie może istnieć żaden węglowodór o *nieparzystej* liczbie atomów wodoru, prawda? (Dlaczego?)_.
 
 Zatem wzór sumaryczny danego związku ma dwukrotnie wyższe współczynniki, tj.
 opisywanym związkiem jest heksyn C₆H₁₀.
