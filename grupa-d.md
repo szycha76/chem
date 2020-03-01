@@ -36,7 +36,7 @@ Stosunek masy atomowej węgla do wodoru wynosi 12:1. W danym związku wynosi 36:
 co wskazuje że na każde trzy atomy węgla (3x12) przypada 5 atomów wodoru (5x1).
 
 Gdyby ten związek miał wzór sumaryczny C₃H₅ jego masa cząsteczkowa wynosiłaby 41u
-(a więc połowę masy naszego związku), bo 36+5=41 oczywiście. _Ponadto nie może istnieć żaden węglowodór o *nieparzystej* liczbie atomów wodoru, prawda? (Dlaczego?)_.
+(a więc połowę masy naszego związku), bo 36+5=41 oczywiście. _Ponadto nie może istnieć żaden węglowodór o **nieparzystej** liczbie atomów **wodoru**, prawda? (Dlaczego?)_.
 
 Zatem wzór sumaryczny danego związku ma dwukrotnie wyższe współczynniki, tj.
 opisywanym związkiem jest heksyn C₆H₁₀.
