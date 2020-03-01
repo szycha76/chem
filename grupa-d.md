@@ -14,7 +14,7 @@
 2. C₂H₂ + 2Br₂ → C₂H₂Br₄ (addycja bromu do wiązania wielokrotnego)
    * C₂H₂ -- etyn (acetylen)
    * Br₂ -- brom (np. w wodzie bromowej, patrz: [https://youtu.be/IWla-0xut7s])
-   * C₂H₂Br₄ -- 2,2-bromoetan (tetrabromoetan (?))
+   * C₂H₂Br₄ -- 1,1,2,2-tetrabromoetan
    
 Reakcja (1) w dawynch czasach (tak z 10 lat temu) wykorzystywana była do strzelania na Wielkanoc.
 
